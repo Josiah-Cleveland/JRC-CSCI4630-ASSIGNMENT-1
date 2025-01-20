@@ -1,0 +1,54 @@
+body{
+    background-color:rgb(247, 238, 161);
+}
+
+h1{
+    background-color: rgb(119, 220, 223);
+    border-color:rgb(200, 2, 42);
+    border-style:dotted;
+    border-width:12px;
+    border-radius:60px;
+    padding:30px;
+    text-align:center;
+    width:fit-content;
+    font-size:50px;
+    font-family:Georgia;
+}
+
+a:hover{
+    font-style:italic;
+    color:rgb(124, 0, 0);
+}
+
+h2{
+    font-size:40px;
+    text-decoration-line:overline;
+    padding:50px;
+    border-style:solid;
+    text-align:center;
+}
+
+p{
+    background-color:rgb(203, 240, 252);
+    border-color:rgb(248, 189, 198);
+    border-style:groove;
+    border-width:5px;
+    border-radius: 20px;
+    padding:14px;
+    width:fit-content;
+    font-size:20px;
+}
+
+li{
+    padding:18px;
+    padding-left:3px;
+}
+
+img{
+    height:300px;
+
+}
+
+.video-dim{
+    height:200px;
+}
